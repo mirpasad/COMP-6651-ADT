@@ -1,0 +1,5 @@
+3
+ACDB
+ACDF
+BCDE
+.cd.
